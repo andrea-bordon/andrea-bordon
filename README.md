@@ -1,9 +1,10 @@
-<h1 align = "center"> 📈 Andrea L. Bordon - Analyst
-<p align = "center > [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/andrea-bordon/) ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=YourGitHubUsername.YourGitHubUsername)
+<h1 style="text-align:center; color:pink;">📈 Andrea L. Bordon - Analyst</h1>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/andrea-bordon/)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=andrea-bordon)
 
-<div align="center">
 # Hi There 👋🏻
-I am a business Analytics and Big Data student with a background in quantitative economics. I am passionate about retail analytics and consumer behavior and strive to leverage my skills in the world of fashion / e-commerce. 
+
+  I am a business Analytics and Big Data student with a background in quantitative economics. I am passionate about retail analytics and consumer behavior and strive to leverage my skills in the world of fashion / e-commerce. 
 
 Want to know more about me? Connect with me on Linkedin!
 
