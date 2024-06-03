@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/andrea-bordon/)
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=andrea-bordon)
 
-# Hi There 👋🏻
+# Hi 👋🏻
 
   I am a business Analytics and Big Data student with a background in quantitative economics. I am passionate about retail analytics and consumer behavior and strive to leverage my skills in the world of fashion / e-commerce. 
 
