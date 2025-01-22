@@ -20,8 +20,8 @@ Want to know more about me? Connect with me on Linkedin!
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
 
 ## 🐙 Git Hub Stats
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-bordon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=andrea-bordon&show_icons=true&theme=radical&cache_seconds=86400)
+
 
 ## 🛠️ Notable Contributions
 - 🎯 [Country Risk Classification & Prediction](https://github.com/maudlcrf/risk_and_fraud)
