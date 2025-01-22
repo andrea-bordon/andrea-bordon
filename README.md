@@ -23,5 +23,7 @@ Want to know more about me? Connect with me on Linkedin!
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-bordon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🛠️ Notable Contributions
+- 🎯 [Country Risk Classification & Prediction]([https://github.com/maudlcrf/risk_and_fraud])
 
 
