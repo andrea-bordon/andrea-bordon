@@ -1,5 +1,5 @@
-<h1 style="text-align:center; color:pink;">📈 Andrea L. Bordon - Analyst</h1>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/andrea-bordon/)
+# 📈 Andrea L. Bordon - Analyst
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/andrea-bordon/)  
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=andrea-bordon)
 
 # Hi 👋🏻
