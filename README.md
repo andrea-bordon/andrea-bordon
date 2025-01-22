@@ -1,4 +1,4 @@
-# 📈 Andrea L. Bordon - Analyst
+# 📈 Andrea L. Bordon - Data Scientist
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/andrea-bordon/)  
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=andrea-bordon)
 
@@ -24,6 +24,7 @@ Want to know more about me? Connect with me on Linkedin!
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-bordon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Notable Contributions
-- 🎯 [Country Risk Classification & Prediction]([https://github.com/maudlcrf/risk_and_fraud])
+- 🎯 [Country Risk Classification & Prediction](https://github.com/maudlcrf/risk_and_fraud)
+
 
 
